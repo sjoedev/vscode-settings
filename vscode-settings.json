@@ -1,0 +1,29 @@
+{
+    "editor.codeLens": false,
+    "editor.colorDecorators": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": "'ss01', 'cv14', 'zero'",
+    "editor.fontSize": 16,
+    "editor.fontWeight": "600",
+    "editor.formatOnSave": true,
+    "editor.inlayHints.enabled": "off",
+    "editor.lineHeight": 1.7,
+    "editor.minimap.maxColumn": 120,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.scale": 1,
+    "editor.minimap.showSlider": "always",
+    "editor.rulers": [
+        120
+    ],
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.stickyScroll.enabled": false,
+    "files.insertFinalNewline": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "window.restoreWindows": "none",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.startupEditor": "none",
+    "workbench.tree.indent": 16
+}
