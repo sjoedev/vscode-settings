@@ -3,7 +3,7 @@
     "editor.colorDecorators": false,
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontLigatures": "'ss01', 'cv14', 'zero'",
+    "editor.fontLigatures": "'cv01', 'cv02', 'cv03', 'cv04', 'cv06', 'cv07', 'cv17', 'zero', 'ss19'",
     "editor.fontSize": 16,
     "editor.fontWeight": "600",
     "editor.formatOnSave": true,
